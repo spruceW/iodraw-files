@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1637" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -85,28 +85,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;PCR计算贡献率排名&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="580" width="140" height="80" as="geometry" />
+          <mxGeometry x="560" y="610" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ko9ThwtShC19ILaT0y2T-48" target="ko9ThwtShC19ILaT0y2T-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-48" value="选取贡献率大的部位计为补偿项中的生理反应补偿" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="600" width="150" height="40" as="geometry" />
+          <mxGeometry x="370" y="630" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ko9ThwtShC19ILaT0y2T-50" target="ko9ThwtShC19ILaT0y2T-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-50" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TSV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;offset&lt;/sub&gt;&lt;/span&gt;=f(T&lt;sub&gt;mrt&lt;/sub&gt;, Ws, dT&lt;sub&gt;sk&lt;/sub&gt;(i)/dt)&lt;/font&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="690" width="160" height="50" as="geometry" />
+          <mxGeometry x="550" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-57" value="T&lt;sub&gt;sk&lt;/sub&gt;(i)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="427.5" y="697.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="427.5" y="727.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-61" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;TSV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;dynamic&lt;/sub&gt;&lt;/span&gt;=&lt;/i&gt;&lt;i&gt;TSV&lt;sub&gt;base&lt;/sub&gt;+&lt;/i&gt;&lt;i&gt;TSV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub style=&quot;&quot;&gt;offset&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="500" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-64" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="390" width="540" height="160" as="geometry" />
+          <mxGeometry x="360" y="420" width="540" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;" vertex="1" parent="ko9ThwtShC19ILaT0y2T-64">
           <mxGeometry width="540" height="160" as="geometry" />
