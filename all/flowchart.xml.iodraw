@@ -85,13 +85,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;PCR计算贡献率排名&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="610" width="140" height="80" as="geometry" />
+          <mxGeometry x="560" y="620" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ko9ThwtShC19ILaT0y2T-48" target="ko9ThwtShC19ILaT0y2T-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-48" value="选取贡献率大的部位计为补偿项中的生理反应补偿" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="630" width="150" height="40" as="geometry" />
+          <mxGeometry x="370" y="640" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ko9ThwtShC19ILaT0y2T-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ko9ThwtShC19ILaT0y2T-50" target="ko9ThwtShC19ILaT0y2T-61">
           <mxGeometry relative="1" as="geometry" />
