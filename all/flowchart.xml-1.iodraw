@@ -16,8 +16,8 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.79;arrowHead=22.2;dx2=15.97;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="270" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=5.41;dx=41.67;arrowHead=26.2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447.01" y="90" width="100" height="100" as="geometry" />
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.04;dx=22.43;arrowHead=26.2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="447.01" y="130" width="72.99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-7" value="" style="group;rotation=135;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="290" width="60" height="70" as="geometry" />
