@@ -52,21 +52,6 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-12" value="长波辐射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="289.15917119369266" as="sourcePoint" />
-            <mxPoint x="670" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="723" y="289" />
-              <mxPoint x="723" y="240" />
-              <mxPoint x="710" y="240" />
-              <mxPoint x="710" y="203" />
-              <mxPoint x="673" y="203" />
-              <mxPoint x="673" y="180" />
-              <mxPoint x="670" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
