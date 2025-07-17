@@ -44,7 +44,7 @@
           <mxGeometry x="240" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-10" value="体表对流换热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="542.99" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="280" width="77.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-11" value="出汗热损失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="517.01" y="150" width="70" height="30" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-17" value="服装热阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447.01" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="300" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
