@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-38" value="导热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402.99" y="250" width="77.01" height="30" as="geometry" />
+          <mxGeometry x="447.01" y="260" width="27.01" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
