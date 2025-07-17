@@ -40,8 +40,8 @@
             <mxPoint x="36" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-9" value="短波辐射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
