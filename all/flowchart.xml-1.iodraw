@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="579" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="339" y="150" width="148.01" height="415" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-7" value="" style="group;rotation=120;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="310" width="90" height="70" as="geometry" />
+          <mxGeometry x="242.5" y="355" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-33" value="" style="group" vertex="1" connectable="0" parent="Lf6dikVKnbZ4tiURoYdL-7">
           <mxGeometry x="-6" y="-4" width="86" height="84" as="geometry" />
@@ -45,12 +45,6 @@
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-17" value="服装热阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447.01" y="210" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.84;dx=12.83;arrowHead=21.4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487.01" y="360" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-26" value="皮肤散热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="362.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-30" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="403" y="107" width="166" height="87" as="geometry" />
@@ -93,6 +87,15 @@
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-10" value="体表对流换热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-34">
           <mxGeometry x="27.00999999999999" y="10" width="77.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-35" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="487.01" y="360" width="82.99000000000001" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.84;dx=12.83;arrowHead=21.4;flipV=1;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-35">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-26" value="皮肤散热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-35">
+          <mxGeometry x="12.990000000000009" y="2.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
