@@ -37,7 +37,7 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Lf6dikVKnbZ4tiURoYdL-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="76" y="40" as="sourcePoint" />
-            <mxPoint x="12" y="60" as="targetPoint" />
+            <mxPoint x="20" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-9" value="短波辐射" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
