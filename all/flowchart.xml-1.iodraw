@@ -61,6 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-17" value="出汗热损失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="587.01" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
