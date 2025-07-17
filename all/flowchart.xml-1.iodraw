@@ -64,10 +64,10 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-17" value="服装热阻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447.01" y="210" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.84;dx=12.83;arrowHead=21.4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.84;dx=12.83;arrowHead=21.4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487.01" y="327.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-26" value="出汗热损失" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-26" value="皮肤散热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="514.02" y="347.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
