@@ -82,7 +82,7 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-34" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="493" y="491" width="104.01999999999998" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lf6dikVKnbZ4tiURoYdL-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.79;arrowHead=22.2;dx2=15.97;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-34">
+        <mxCell id="Lf6dikVKnbZ4tiURoYdL-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.79;arrowHead=22.2;dx2=15.97;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-34">
           <mxGeometry y="-10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-10" value="体表对流换热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lf6dikVKnbZ4tiURoYdL-34">
