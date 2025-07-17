@@ -65,10 +65,10 @@
           <mxGeometry x="447.01" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.84;dx=12.83;arrowHead=21.4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487.01" y="327.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="487.01" y="360" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-26" value="皮肤散热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="362.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
