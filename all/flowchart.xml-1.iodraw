@@ -106,6 +106,9 @@
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-38" value="导热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="453" y="486" width="27.01" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="lnFSd6Ehezx1hih_pPel-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lf6dikVKnbZ4tiURoYdL-12" target="Lf6dikVKnbZ4tiURoYdL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
