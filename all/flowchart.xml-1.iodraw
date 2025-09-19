@@ -8,7 +8,7 @@
           <mxGeometry x="339" y="373" width="148.01" height="415" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-7" value="" style="group;rotation=120;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="252.5" y="573" width="90" height="80" as="geometry" />
+          <mxGeometry x="262.5" y="573" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-33" value="" style="group;fontFamily=宋体;" parent="Lf6dikVKnbZ4tiURoYdL-7" vertex="1" connectable="0">
           <mxGeometry x="-30" y="-30" width="110" height="110" as="geometry" />
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="Lf6dikVKnbZ4tiURoYdL-38" value="导热" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="453" y="486" width="27.01" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="lnFSd6Ehezx1hih_pPel-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lf6dikVKnbZ4tiURoYdL-12" target="Lf6dikVKnbZ4tiURoYdL-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
