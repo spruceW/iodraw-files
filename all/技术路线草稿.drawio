@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
+  <diagram name="第 1 页" id="g3BuxwvCYRKT_iWC-hij">
+    <mxGraphModel dx="2605" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IO3pBcirZfi48SLFLB3O-140" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="第三阶段：模型拓展与应用" vertex="1">
+          <mxGeometry height="148" width="1557" x="288" y="1042" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-141" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="环境参数&#xa;气象数据" vertex="1">
+          <mxGeometry height="78" width="124" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-142" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="JOS-3生理模型" vertex="1">
+          <mxGeometry height="54" width="164" x="245" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-143" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="皮肤温度模拟结果" vertex="1">
+          <mxGeometry height="54" width="188" x="484" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-144" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="模拟皮肤温度作为输入" vertex="1">
+          <mxGeometry height="54" width="220" x="747" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-145" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="自建DTS模型" vertex="1">
+          <mxGeometry height="54" width="151" x="1042" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-146" parent="IO3pBcirZfi48SLFLB3O-140" style="whiteSpace=wrap;strokeWidth=2;" value="纯环境参数驱动下的预测效果验证" vertex="1">
+          <mxGeometry height="78" width="260" x="1268" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-147" edge="1" parent="IO3pBcirZfi48SLFLB3O-140" source="IO3pBcirZfi48SLFLB3O-141" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-142" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-148" edge="1" parent="IO3pBcirZfi48SLFLB3O-140" source="IO3pBcirZfi48SLFLB3O-142" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-143" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-149" edge="1" parent="IO3pBcirZfi48SLFLB3O-140" source="IO3pBcirZfi48SLFLB3O-143" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-144" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-150" edge="1" parent="IO3pBcirZfi48SLFLB3O-140" source="IO3pBcirZfi48SLFLB3O-144" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-145" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-151" edge="1" parent="IO3pBcirZfi48SLFLB3O-140" source="IO3pBcirZfi48SLFLB3O-145" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-146" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-152" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="第二阶段：模型构建与验证" vertex="1">
+          <mxGeometry height="398" width="1673" x="230" y="594" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-153" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="验证通用指数局限性" vertex="1">
+          <mxGeometry height="54" width="204" x="590" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-154" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="UTCI计算" vertex="1">
+          <mxGeometry height="54" width="126" x="920" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-155" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="与实测热感觉对比" vertex="1">
+          <mxGeometry height="54" width="188" x="1152" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-156" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="偏差分析与适用性评估" vertex="1">
+          <mxGeometry height="54" width="220" x="1423" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-157" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="提出新动态建模框架&#xa;“基础项-偏移项”框架" vertex="1">
+          <mxGeometry height="78" width="211" x="46" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-158" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="基础项&#xa;环境驱动&#xa;如：UTCI" vertex="1">
+          <mxGeometry height="102" width="126" x="346" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-159" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="偏移项&#xa;生理动态响应" vertex="1">
+          <mxGeometry height="78" width="156" x="331" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-160" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="变量筛选：机理驱动 + 数据驱动" vertex="1">
+          <mxGeometry height="78" width="260" x="562" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-161" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="骑行动态热感觉&#xa;DTS模型" vertex="1">
+          <mxGeometry height="78" width="172" x="897" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-162" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="与经典模型对比验证" vertex="1">
+          <mxGeometry height="54" width="204" x="1144" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-163" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="模型性能评估&#xa;准确性、鲁棒性" vertex="1">
+          <mxGeometry height="78" width="172" x="1447" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-164" parent="IO3pBcirZfi48SLFLB3O-152" style="whiteSpace=wrap;strokeWidth=2;" value="集成与验证" vertex="1">
+          <mxGeometry height="54" width="140" x="1463" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-165" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-153" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-154" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-166" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-154" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-155" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-167" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-155" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-156" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-168" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-157" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-158" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-169" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-157" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-159" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-170" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-158" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;rounded=0;" target="IO3pBcirZfi48SLFLB3O-160" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-171" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-159" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=1;rounded=0;" target="IO3pBcirZfi48SLFLB3O-160" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-172" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-160" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-161" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-173" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-161" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-162" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-174" edge="1" parent="IO3pBcirZfi48SLFLB3O-152" source="IO3pBcirZfi48SLFLB3O-162" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="IO3pBcirZfi48SLFLB3O-163" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-175" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="第一阶段：问题分解与数据基石" vertex="1">
+          <mxGeometry height="324" width="335" x="899" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-176" parent="IO3pBcirZfi48SLFLB3O-175" style="whiteSpace=wrap;strokeWidth=2;" value="问卷调研&#xa;心理行为因素库" vertex="1">
+          <mxGeometry height="78" width="172" x="90" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-177" parent="IO3pBcirZfi48SLFLB3O-175" style="whiteSpace=wrap;strokeWidth=2;" value="实地实验&#xa;冬/夏动态实测数据集&#xa;环境参数/生理参数/主观热感觉投票" vertex="1">
+          <mxGeometry height="126" width="260" x="46" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-178" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="核心科学问题&#xa;电动自行车骑行移动微气候下&#xa;如何实现动态热感觉的精准预测？" vertex="1">
+          <mxGeometry height="150" width="260" x="936" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-179" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="研究成果输出&#xa;1. 解答核心科学问题&#xa;2. 动态热舒适评价工具&#xa;3. 应用建议&#xa;4. 未来研究展望" vertex="1">
+          <mxGeometry height="150" width="223" x="955" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-180" edge="1" parent="1" source="IO3pBcirZfi48SLFLB3O-178" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="IO3pBcirZfi48SLFLB3O-175" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-181" edge="1" parent="1" source="IO3pBcirZfi48SLFLB3O-175" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="IO3pBcirZfi48SLFLB3O-152" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-182" edge="1" parent="1" source="IO3pBcirZfi48SLFLB3O-152" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="IO3pBcirZfi48SLFLB3O-140" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IO3pBcirZfi48SLFLB3O-183" edge="1" parent="1" source="IO3pBcirZfi48SLFLB3O-140" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="IO3pBcirZfi48SLFLB3O-179" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
