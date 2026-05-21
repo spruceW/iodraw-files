@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IO3pBcirZfi48SLFLB3O-177" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" value="实地实验：&#xa;冬/夏动态实测数据集&#xa;环境参数/生理参数/主观热感觉投票" vertex="1">
+        <mxCell id="IO3pBcirZfi48SLFLB3O-177" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" value="实地实验：&#xa;收集冬/夏实测数据&#xa;环境参数/生理参数/主观热感觉投票" vertex="1">
           <mxGeometry height="65" width="290" x="395" y="370" as="geometry" />
         </mxCell>
         <mxCell id="Isyk-0nE3rtHrP_CVwSB-126" edge="1" parent="1" source="IO3pBcirZfi48SLFLB3O-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;strokeWidth=2;" target="IO3pBcirZfi48SLFLB3O-140" value="">
